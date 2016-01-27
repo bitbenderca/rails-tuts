@@ -1,7 +1,7 @@
 == README
 
 # Ruby on Rails Tutorial: First Application
-This is the first application for the book "Ruby on Rails Tutorial, 2nd Edition". This is simply a test application for setting up GitHub.
+This is the first application for the book "Ruby on Rails Tutorial, 2nd Edition". This is simply a test application for setting up GitHub. 
 
 Things you may want to cover:
 
